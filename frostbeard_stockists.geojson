@@ -12,6 +12,7 @@
       },
       "properties": {
         "marker-color": "#10b4c3",
+        'marker-size': 'small',
         "businessName": "Frostbeard Studio",
         "phone": "",
         "address": "3506 Chicago Ave",
