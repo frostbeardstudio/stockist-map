@@ -27,6 +27,75 @@
       {  
          "geometry":{  
             "coordinates":[  
+               -93.2541104,
+               44.9901841
+            ],
+            "type":"Point"
+         },
+         "id":"I Like You",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"501 1st Ave NE",
+            "address2":" #1",
+            "city":"Minneapolis",
+            "postalCode":55413,
+            "latitude":44.9901841,
+            "businessName":"I Like You",
+            "icon":"marker-teal",
+            "state":" MN",
+            "longitude":-93.2541104
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.284621,
+               44.933946
+            ],
+            "type":"Point"
+         },
+         "id":"Digs",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"3800 Grand Ave S",
+            "address2":"",
+            "city":"Minneapolis",
+            "postalCode":55409,
+            "latitude":44.933946,
+            "businessName":"Digs",
+            "icon":"marker-teal",
+            "state":"MN ",
+            "longitude":-93.284621
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.231806,
+               44.9267317
+            ],
+            "type":"Point"
+         },
+         "id":"Doodle Bird",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2803 E 42nd St",
+            "address2":"",
+            "city":"Minneapolis",
+            "postalCode":55406,
+            "latitude":44.9267317,
+            "businessName":"Doodle Bird",
+            "icon":"marker-teal",
+            "state":"MN ",
+            "longitude":-93.231806
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
                -87.556804,
                39.116587
             ],
