@@ -1,1 +1,2121 @@
-{"type":"FeatureCollection","features":[{"geometry":{"coordinates":[-93.2628462,44.9392901],"type":"Point"},"id":"Frostbeard Studio","type":"Feature","properties":{"daysAgo":"","country":"US","address":"3506 Chicago Ave","address2":"","city":"Minneapolis","lastOrder":"","postalCode":55407,"latitude":44.9392901,"businessName":"Frostbeard Studio","icon":"marker-frostbeard","ID":"","state":"MN","longitude":-93.2628462}},{"geometry":{"coordinates":[-87.556804,39.116587],"type":"Point"},"id":"-ISH","type":"Feature","properties":{"daysAgo":225.6004629629606,"country":"US","address":"2137 N St Rd 63","address2":"","city":"Sullivan","lastOrder":"Mon Jan 08 09:35:20 GMT-06:00 2018","postalCode":47882,"latitude":39.116587,"businessName":"-ISH","icon":"marker-teal","ID":"-ISH","state":"IN","longitude":-87.556804}},{"geometry":{"coordinates":[-88.150119,41.773116],"type":"Point"},"id":"Anderson\u0027s Bookshops","type":"Feature","properties":{"daysAgo":168.3890972222216,"country":"US","address":"123 W. Jefferson","address2":"","city":"Naperville","lastOrder":"Tue Mar 06 14:39:42 GMT-06:00 2018","postalCode":60540,"latitude":41.773116,"businessName":"Anderson\u0027s Bookshops","icon":"marker-teal","ID":"Anderson\u0027s Bookshops","state":"IL","longitude":-88.150119}},{"geometry":{"coordinates":[-122.6751,45.551392],"type":"Point"},"id":"Another Read Through","type":"Feature","properties":{"daysAgo":144.58508101852203,"country":"US","address":"3932 N Mississippi Ave","address2":"","city":"Portland","lastOrder":"Fri Mar 30 08:57:29 GMT-06:00 2018","postalCode":97227,"latitude":45.551392,"businessName":"Another Read Through","icon":"marker-teal","ID":"Another Read Through","state":"OR","longitude":-122.6751}},{"geometry":{"coordinates":[-77.266668,38.901712],"type":"Point"},"id":"Bards Alley","type":"Feature","properties":{"daysAgo":132.57796296296146,"country":"US","address":"110 Church Street NW","address2":"","city":"Vienna","lastOrder":"Wed Apr 11 10:07:44 GMT-05:00 2018","postalCode":22180,"latitude":38.901712,"businessName":"Bards Alley","icon":"marker-teal","ID":"Bards Alley","state":"VA","longitude":-77.266668}},{"geometry":{"coordinates":[-97.451899,37.693967],"type":"Point"},"id":"Blue Baboon Books","type":"Feature","properties":{"daysAgo":23.437141203707142,"country":"US","address":"9428 W Central Ave","address2":"","city":"Wichita","lastOrder":"Sun Jul 29 13:30:31 GMT-05:00 2018","postalCode":67212,"latitude":37.693967,"businessName":"Blue Baboon Books","icon":"marker-teal","ID":"Blue Baboon Books","state":"KS","longitude":-97.451899}},{"geometry":{"coordinates":[-90.130081,29.94759],"type":"Point"},"id":"Blue Cypress Books","type":"Feature","properties":{"daysAgo":94.15519675926043,"country":"US","address":"8126 Oak Street","address2":"","city":"New Orleans","lastOrder":"Sat May 19 20:16:31 GMT-05:00 2018","postalCode":70118,"latitude":29.94759,"businessName":"Blue Cypress Books","icon":"marker-teal","ID":"Blue Cypress Books","state":"LA","longitude":-90.130081}},{"geometry":{"coordinates":[-97.931379,38.051996],"type":"Point"},"id":"Bluebird Books","type":"Feature","properties":{"daysAgo":313,"country":"US","address":"2 S Main","address2":"","city":"Hutchinson","lastOrder":"Fri Oct 13 00:00:00 GMT-05:00 2017","postalCode":67501,"latitude":38.051996,"businessName":"Bluebird Books","icon":"marker-teal","ID":"Bluebird Books","state":"KS","longitude":-97.931379}},{"geometry":{"coordinates":[-80.810253,35.220661],"type":"Point"},"id":"Book Buyers","type":"Feature","properties":{"daysAgo":153.51335648148233,"country":"US","address":"1306 The Plaza","address2":"","city":"Charlotte","lastOrder":"Wed Mar 21 10:40:46 GMT-06:00 2018","postalCode":28205,"latitude":35.220661,"businessName":"Book Buyers","icon":"marker-teal","ID":"Book Buyers","state":"NC","longitude":-80.810253}},{"geometry":{"coordinates":[-85.612253,42.261919],"type":"Point"},"id":"Bookbug","type":"Feature","properties":{"daysAgo":88.0513310185197,"country":"US","address":"3019 Oakland Drive","address2":"","city":"Kalamzoo","lastOrder":"Fri May 25 22:46:05 GMT-05:00 2018","postalCode":49008,"latitude":42.261919,"businessName":"Bookbug","icon":"marker-teal","ID":"Bookbug","state":"MI","longitude":-85.612253}},{"geometry":{"coordinates":[-97.932346,38.054408],"type":"Point"},"id":"Bookends","type":"Feature","properties":{"daysAgo":302,"country":"US","address":"123 N Main","address2":"","city":"Hutchinson","lastOrder":"Tue Oct 24 00:00:00 GMT-05:00 2017","postalCode":67501,"latitude":38.054408,"businessName":"Bookends","icon":"marker-teal","ID":"Bookends","state":"KS","longitude":-97.932346}},{"geometry":{"coordinates":[-80.250657,36.097655],"type":"Point"},"id":"Bookmarks","type":"Feature","properties":{"daysAgo":11.493449074070668,"country":"US","address":"632 W 4th St","address2":"#110","city":"Winston-Salem","lastOrder":"Fri Aug 10 12:09:26 GMT-05:00 2018","postalCode":27101,"latitude":36.097655,"businessName":"Bookmarks","icon":"marker-teal","ID":"Bookmarks","state":"NC","longitude":-80.250657}},{"geometry":{"coordinates":[-69.109251,44.10262],"type":"Point"},"id":"Hello Hello Books","type":"Feature","properties":{"daysAgo":330,"country":"US","address":"315 Main St","address2":"","city":"Rockland","lastOrder":"Tue Sep 26 00:00:00 GMT-05:00 2017","postalCode":4841,"latitude":44.10262,"businessName":"Hello Hello Books","icon":"marker-teal","ID":"Hello Hello Books","state":"ME","longitude":-69.109251}},{"geometry":{"coordinates":[-93.298662,44.947124],"type":"Point"},"id":"Magers and Quinn Booksellers","type":"Feature","properties":{"daysAgo":28.14063657407678,"country":"US","address":"3038 Hennepin Ave S","address2":"","city":"Minneapolis","lastOrder":"Tue Jul 24 20:37:29 GMT-05:00 2018","postalCode":55408,"latitude":44.947124,"businessName":"Magers and Quinn Booksellers","icon":"marker-teal","ID":"Magers and Quinn Booksellers","state":"MN","longitude":-93.298662}},{"geometry":{"coordinates":[-93.1566,44.940014],"type":"Point"},"id":"Sixth Chamber Used Books","type":"Feature","properties":{"daysAgo":38.019803240742476,"country":"US","address":"1332 Grand Ave","address2":"","city":"St. Paul","lastOrder":"Sat Jul 14 23:31:29 GMT-05:00 2018","postalCode":55105,"latitude":44.940014,"businessName":"Sixth Chamber Used Books","icon":"marker-teal","ID":"Sixth Chamber Used Books","state":"MN","longitude":-93.1566}},{"geometry":{"coordinates":[-89.519018,34.365814],"type":"Point"},"id":"Square Books","type":"Feature","properties":{"daysAgo":468,"country":"US","address":"160 Courthouse Square","address2":"","city":"Oxford","lastOrder":"Thu May 11 00:00:00 GMT-05:00 2017","postalCode":38655,"latitude":34.365814,"businessName":"Square Books","icon":"marker-teal","ID":"Square Books","state":"MS","longitude":-89.519018}},{"geometry":{"coordinates":[-80.810253,35.220661],"type":"Point"},"id":"The Greener Apple","type":"Feature","properties":{"daysAgo":11.499942129630654,"country":"US","address":"1306 The Plaza","address2":"","city":"Charlotte","lastOrder":"Fri Aug 10 12:00:05 GMT-05:00 2018","postalCode":28205,"latitude":35.220661,"businessName":"The Greener Apple","icon":"marker-teal","ID":"The Greener Apple","state":"NC","longitude":-80.810253}},{"geometry":{"coordinates":[-96.788028,46.880439],"type":"Point"},"id":"Unglued: Market","type":"Feature","properties":{"daysAgo":406,"country":"US","address":"408 Broadway","address2":"","city":"Fargo","lastOrder":"Wed Jul 12 00:00:00 GMT-05:00 2017","postalCode":58102,"latitude":46.880439,"businessName":"Unglued: Market","icon":"marker-teal","ID":"Unglued: Market","state":"ND","longitude":-96.788028}}]}
+{  
+   "type":"FeatureCollection",
+   "features":[  
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.2628462,
+               44.9392901
+            ],
+            "type":"Point"
+         },
+         "id":"Frostbeard Studio",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"3506 Chicago Ave",
+            "address2":"",
+            "city":"Minneapolis",
+            "postalCode":55407,
+            "latitude":44.9392901,
+            "businessName":"Frostbeard Studio",
+            "icon":"marker-frostbeard",
+            "state":"MN",
+            "longitude":-93.2628462
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -87.556804,
+               39.116587
+            ],
+            "type":"Point"
+         },
+         "id":"-ISH",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2137 N St Rd 63",
+            "address2":"",
+            "city":"Sullivan",
+            "postalCode":"Mon Feb 03 00:00:00 GMT-06:00 2031",
+            "latitude":39.116587,
+            "businessName":"-ISH",
+            "icon":"marker-teal",
+            "state":"IN",
+            "longitude":-87.556804
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -88.150119,
+               41.773116
+            ],
+            "type":"Point"
+         },
+         "id":"Anderson\u0027s Bookshops",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"123 W. Jefferson",
+            "address2":"",
+            "city":"Naperville",
+            "postalCode":"Wed Sep 30 00:00:00 GMT-05:00 2065",
+            "latitude":41.773116,
+            "businessName":"Anderson\u0027s Bookshops",
+            "icon":"marker-teal",
+            "state":"IL",
+            "longitude":-88.150119
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -122.6751,
+               45.551392
+            ],
+            "type":"Point"
+         },
+         "id":"Another Read Through",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"3932 N Mississippi Ave",
+            "address2":"",
+            "city":"Portland",
+            "postalCode":"Tue Mar 11 23:00:00 GMT-06:00 2166",
+            "latitude":45.551392,
+            "businessName":"Another Read Through",
+            "icon":"marker-teal",
+            "state":"OR",
+            "longitude":-122.6751
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -77.266668,
+               38.901712
+            ],
+            "type":"Point"
+         },
+         "id":"Bards Alley",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"110 Church Street NW",
+            "address2":"",
+            "city":"Vienna",
+            "postalCode":"Tue Sep 20 23:00:00 GMT-06:00 1960",
+            "latitude":38.901712,
+            "businessName":"Bards Alley",
+            "icon":"marker-teal",
+            "state":"VA",
+            "longitude":-77.266668
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -97.451899,
+               37.693967
+            ],
+            "type":"Point"
+         },
+         "id":"Blue Baboon Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"9428 W Central Ave",
+            "address2":"",
+            "city":"Wichita",
+            "postalCode":"Thu Jan 06 00:00:00 GMT-06:00 2084",
+            "latitude":37.693967,
+            "businessName":"Blue Baboon Books",
+            "icon":"marker-teal",
+            "state":"KS",
+            "longitude":-97.451899
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -90.130081,
+               29.94759
+            ],
+            "type":"Point"
+         },
+         "id":"Blue Cypress Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"8126 Oak Street",
+            "address2":"",
+            "city":"New Orleans",
+            "postalCode":"Fri Dec 21 00:00:00 GMT-06:00 2091",
+            "latitude":29.94759,
+            "businessName":"Blue Cypress Books",
+            "icon":"marker-teal",
+            "state":"LA",
+            "longitude":-90.130081
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -97.931379,
+               38.051996
+            ],
+            "type":"Point"
+         },
+         "id":"Bluebird Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2 S Main",
+            "address2":"",
+            "city":"Hutchinson",
+            "postalCode":"Sat Oct 21 00:00:00 GMT-05:00 2084",
+            "latitude":38.051996,
+            "businessName":"Bluebird Books",
+            "icon":"marker-teal",
+            "state":"KS",
+            "longitude":-97.931379
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -80.810253,
+               35.220661
+            ],
+            "type":"Point"
+         },
+         "id":"Book Buyers",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1306 The Plaza",
+            "address2":"",
+            "city":"Charlotte",
+            "postalCode":"Mon Mar 21 00:00:00 GMT-06:00 1977",
+            "latitude":35.220661,
+            "businessName":"Book Buyers",
+            "icon":"marker-teal",
+            "state":"NC",
+            "longitude":-80.810253
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -85.612253,
+               42.261919
+            ],
+            "type":"Point"
+         },
+         "id":"Bookbug",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"3019 Oakland Drive",
+            "address2":"",
+            "city":"Kalamzoo",
+            "postalCode":"Sun Mar 05 00:00:00 GMT-06:00 2034",
+            "latitude":42.261919,
+            "businessName":"Bookbug",
+            "icon":"marker-teal",
+            "state":"MI",
+            "longitude":-85.612253
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -97.932346,
+               38.054408
+            ],
+            "type":"Point"
+         },
+         "id":"Bookends",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"123 N Main",
+            "address2":"",
+            "city":"Hutchinson",
+            "postalCode":"Sat Oct 21 00:00:00 GMT-05:00 2084",
+            "latitude":38.054408,
+            "businessName":"Bookends",
+            "icon":"marker-teal",
+            "state":"KS",
+            "longitude":-97.932346
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -75.979352,
+               35.111035
+            ],
+            "type":"Point"
+         },
+         "id":"Books to be Red",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"34 School Rd.",
+            "address2":"",
+            "city":"Ocracoke",
+            "postalCode":"Sun Jul 18 23:00:00 GMT-06:00 1976",
+            "latitude":35.111035,
+            "businessName":"Books to be Red",
+            "icon":"marker-teal",
+            "state":"NC",
+            "longitude":-75.979352
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -77.020201,
+               39.303218
+            ],
+            "type":"Point"
+         },
+         "id":"Books With a Past",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2465 MD Route 97",
+            "address2":"",
+            "city":"Glenwood",
+            "postalCode":"Mon Jul 06 23:00:00 GMT-06:00 1959",
+            "latitude":39.303218,
+            "businessName":"Books With a Past",
+            "icon":"marker-teal",
+            "state":"MD",
+            "longitude":-77.020201
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -79.822751,
+               41.412209
+            ],
+            "type":"Point"
+         },
+         "id":"Bound Booksellers",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"158 Front Street",
+            "address2":"Suite 106",
+            "city":"Franklin",
+            "postalCode":"Fri Jun 22 00:00:00 GMT-05:00 2001",
+            "latitude":41.412209,
+            "businessName":"Bound Booksellers",
+            "icon":"marker-teal",
+            "state":"TN",
+            "longitude":-79.822751
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -109.67779,
+               48.541965
+            ],
+            "type":"Point"
+         },
+         "id":"Boyce \u0026 Berry Flowers",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1134 5th Ave",
+            "address2":"",
+            "city":"Havre",
+            "postalCode":"Sun Nov 26 00:00:00 GMT-06:00 2062",
+            "latitude":48.541965,
+            "businessName":"Boyce \u0026 Berry Flowers",
+            "icon":"marker-teal",
+            "state":"MT",
+            "longitude":-109.67779
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.752784,
+               41.617409
+            ],
+            "type":"Point"
+         },
+         "id":"Broken Arrow Wear (Ta\u2019veren Tees)",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"9943 Hickman Road",
+            "address2":"Suite 102",
+            "city":"Urbandale",
+            "postalCode":"Fri Oct 09 00:00:00 GMT-05:00 2037",
+            "latitude":41.617409,
+            "businessName":"Broken Arrow Wear (Ta\u2019veren Tees)",
+            "icon":"marker-teal",
+            "state":"IA",
+            "longitude":-93.752784
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -76.498638,
+               42.441207
+            ],
+            "type":"Point"
+         },
+         "id":"Buffalo Street Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"215 North Cayuga Street",
+            "address2":"",
+            "city":"Ithaca",
+            "postalCode":"Mon Aug 26 23:00:00 GMT-06:00 1940",
+            "latitude":42.441207,
+            "businessName":"Buffalo Street Books",
+            "icon":"marker-teal",
+            "state":"NY",
+            "longitude":-76.498638
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -88.0968396,
+               42.4775258
+            ],
+            "type":"Point"
+         },
+         "id":"Cafe Book",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"395 Lake St",
+            "address2":"",
+            "city":"Antioch",
+            "postalCode":"Thu Apr 10 00:00:00 GMT-05:00 2064",
+            "latitude":42.4775258,
+            "businessName":"Cafe Book",
+            "icon":"marker-teal",
+            "state":"IL",
+            "longitude":-88.0968396
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.22766,
+               44.9734872
+            ],
+            "type":"Point"
+         },
+         "id":"Daybreak Press",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"720 Washington Ave SE",
+            "address2":"",
+            "city":"Minneapolis",
+            "postalCode":"Mon Sep 18 00:00:00 GMT-05:00 2051",
+            "latitude":44.9734872,
+            "businessName":"Daybreak Press",
+            "icon":"marker-teal",
+            "state":"MN",
+            "longitude":-93.22766
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.1355069999999,
+               35.2783682
+            ],
+            "type":"Point"
+         },
+         "id":"Dog Ear Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"300 W Main St",
+            "address2":"",
+            "city":"Russellville",
+            "postalCode":"Sun Apr 26 00:00:00 GMT-05:00 2099",
+            "latitude":35.2783682,
+            "businessName":"Dog Ear Books",
+            "icon":"marker-teal",
+            "state":"AR",
+            "longitude":-93.1355069999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -95.2362378999999,
+               38.9662671
+            ],
+            "type":"Point"
+         },
+         "id":"Essential Goods",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"933 Massachusetts St",
+            "address2":"",
+            "city":"Lawrence",
+            "postalCode":"Fri Oct 25 00:00:00 GMT-05:00 2080",
+            "latitude":38.9662671,
+            "businessName":"Essential Goods",
+            "icon":"marker-teal",
+            "state":"KS",
+            "longitude":-95.2362378999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.5660143,
+               44.9038252
+            ],
+            "type":"Point"
+         },
+         "id":"Excelsior Bay Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"36 Water St",
+            "address2":"",
+            "city":"Excelsior",
+            "postalCode":"Tue Jun 27 00:00:00 GMT-05:00 2051",
+            "latitude":44.9038252,
+            "businessName":"Excelsior Bay Books",
+            "icon":"marker-teal",
+            "state":"MN",
+            "longitude":-93.5660143
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -81.3161384,
+               29.8920992999999
+            ],
+            "type":"Point"
+         },
+         "id":"Flagler College Bookstore",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"50 Sevilla Street",
+            "address2":"",
+            "city":"St. Augustine",
+            "postalCode":"Tue Nov 03 00:00:00 GMT-06:00 1987",
+            "latitude":29.8920992999999,
+            "businessName":"Flagler College Bookstore",
+            "icon":"marker-teal",
+            "state":"FL",
+            "longitude":-81.3161384
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -81.6813574,
+               36.2171559
+            ],
+            "type":"Point"
+         },
+         "id":"Foggy Pine Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"444 W. King St",
+            "address2":"",
+            "city":"Boone",
+            "postalCode":"Thu Apr 27 00:00:00 GMT-06:00 1978",
+            "latitude":36.2171559,
+            "businessName":"Foggy Pine Books",
+            "icon":"marker-teal",
+            "state":"NC",
+            "longitude":-81.6813574
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -94.6526187,
+               31.6039254
+            ],
+            "type":"Point"
+         },
+         "id":"Fredonia Vintage House",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"400 East Hospital Street",
+            "address2":"",
+            "city":"Nacogdoches",
+            "postalCode":"Wed Dec 21 00:00:00 GMT-06:00 2107",
+            "latitude":31.6039254,
+            "businessName":"Fredonia Vintage House",
+            "icon":"marker-teal",
+            "state":"TX",
+            "longitude":-94.6526187
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -96.6013677999999,
+               35.988278
+            ],
+            "type":"Point"
+         },
+         "id":"Friends of the Drumright Public Library",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"51296 W 131st St S",
+            "address2":"",
+            "city":"Drumright",
+            "postalCode":"Thu Sep 07 00:00:00 GMT-05:00 2102",
+            "latitude":35.988278,
+            "businessName":"Friends of the Drumright Public Library",
+            "icon":"marker-teal",
+            "state":"OK",
+            "longitude":-96.6013677999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -105.100589099999,
+               40.1652106
+            ],
+            "type":"Point"
+         },
+         "id":"Friends of the Longmont Library",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"409 4th Avenue",
+            "address2":"",
+            "city":"Longmont",
+            "postalCode":"Sun May 26 00:00:00 GMT-05:00 2120",
+            "latitude":40.1652106,
+            "businessName":"Friends of the Longmont Library",
+            "icon":"marker-teal",
+            "state":"CO",
+            "longitude":-105.100589099999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -69.109251,
+               44.10262
+            ],
+            "type":"Point"
+         },
+         "id":"Hello Hello Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"315 Main St",
+            "address2":"",
+            "city":"Rockland",
+            "postalCode":"Tue Apr 01 23:23:24 GMT-06:36 1913",
+            "latitude":44.10262,
+            "businessName":"Hello Hello Books",
+            "icon":"marker-teal",
+            "state":"ME",
+            "longitude":-69.109251
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -75.034936,
+               39.896847
+            ],
+            "type":"Point"
+         },
+         "id":"Inkwood Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"31 Kings Highway East",
+            "address2":"",
+            "city":"Haddonfield",
+            "postalCode":"Tue Dec 27 23:23:24 GMT-06:36 1921",
+            "latitude":39.896847,
+            "businessName":"Inkwood Books",
+            "icon":"marker-teal",
+            "state":"NJ",
+            "longitude":-75.034936
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -81.8025275,
+               24.5564569
+            ],
+            "type":"Point"
+         },
+         "id":"Key West Island Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"513 Fleming Street",
+            "address2":"",
+            "city":"Key West",
+            "postalCode":"Fri Jun 15 23:00:00 GMT-06:00 1990",
+            "latitude":24.5564569,
+            "businessName":"Key West Island Books",
+            "icon":"marker-teal",
+            "state":"FL",
+            "longitude":-81.8025275
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -88.9024896999999,
+               38.3180264999999
+            ],
+            "type":"Point"
+         },
+         "id":"King City Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"104 N 9th St",
+            "address2":"",
+            "city":"Mt. Vernon",
+            "postalCode":"Wed Feb 10 00:00:00 GMT-06:00 2072",
+            "latitude":38.3180264999999,
+            "businessName":"King City Books",
+            "icon":"marker-teal",
+            "state":"IL",
+            "longitude":-88.9024896999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -118.2667943,
+               34.107701
+            ],
+            "type":"Point"
+         },
+         "id":"Little Pine",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2870 Rowena Ave",
+            "address2":"",
+            "city":"Los Angeles",
+            "postalCode":"Thu Jul 07 00:00:00 GMT-05:00 2146",
+            "latitude":34.107701,
+            "businessName":"Little Pine",
+            "icon":"marker-teal",
+            "state":"CA",
+            "longitude":-118.2667943
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -84.295789,
+               33.77536
+            ],
+            "type":"Point"
+         },
+         "id":"Little Shop of Stories",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"133A East Court Square",
+            "address2":"",
+            "city":"Decatur",
+            "postalCode":"Sat Mar 20 00:00:00 GMT-06:00 1982",
+            "latitude":33.77536,
+            "businessName":"Little Shop of Stories",
+            "icon":"marker-teal",
+            "state":"GA",
+            "longitude":-84.295789
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -69.3755560999999,
+               44.0949801999999
+            ],
+            "type":"Point"
+         },
+         "id":"Long Winter Soap Co.",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"11 Friendship Street",
+            "address2":"",
+            "city":"Waldoboro",
+            "postalCode":"Sat Jul 06 23:23:24 GMT-06:36 1912",
+            "latitude":44.0949801999999,
+            "businessName":"Long Winter Soap Co.",
+            "icon":"marker-teal",
+            "state":"ME",
+            "longitude":-69.3755560999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -123.8300365,
+               46.1886733
+            ],
+            "type":"Point"
+         },
+         "id":"Lucy\u0027s Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"348 12th St",
+            "address2":"",
+            "city":"Astoria",
+            "postalCode":"Fri Nov 08 00:00:00 GMT-06:00 2165",
+            "latitude":46.1886733,
+            "businessName":"Lucy\u0027s Books",
+            "icon":"marker-teal",
+            "state":"OR",
+            "longitude":-123.8300365
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -88.4628033999999,
+               44.186651
+            ],
+            "type":"Point"
+         },
+         "id":"Lyons Fine Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"124 W Wisconsin Avenue,",
+            "address2":"Suite 140",
+            "city":"Neenah",
+            "postalCode":"Fri Jun 17 00:00:00 GMT-05:00 2050",
+            "latitude":44.186651,
+            "businessName":"Lyons Fine Books",
+            "icon":"marker-teal",
+            "state":"WI",
+            "longitude":-88.4628033999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.298662,
+               44.947124
+            ],
+            "type":"Point"
+         },
+         "id":"Magers and Quinn Booksellers",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"3038 Hennepin Ave S",
+            "address2":"",
+            "city":"Minneapolis",
+            "postalCode":"Tue Sep 12 00:00:00 GMT-05:00 2051",
+            "latitude":44.947124,
+            "businessName":"Magers and Quinn Booksellers",
+            "icon":"marker-teal",
+            "state":"MN",
+            "longitude":-93.298662
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -80.8491159999999,
+               35.4984599999999
+            ],
+            "type":"Point"
+         },
+         "id":"Main Street Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"126 S Main Street",
+            "address2":"",
+            "city":"Davidson",
+            "postalCode":"Sat Oct 02 23:00:00 GMT-06:00 1976",
+            "latitude":35.4984599999999,
+            "businessName":"Main Street Books",
+            "icon":"marker-teal",
+            "state":"NC",
+            "longitude":-80.8491159999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -84.2775626999999,
+               30.4550599
+            ],
+            "type":"Point"
+         },
+         "id":"Midtown Reader",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1123 Thomasville Road",
+            "address2":"Unit B",
+            "city":"Tallahassee",
+            "postalCode":"Wed Jun 08 23:00:00 GMT-06:00 1988",
+            "latitude":30.4550599,
+            "businessName":"Midtown Reader",
+            "icon":"marker-teal",
+            "state":"FL",
+            "longitude":-84.2775626999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -82.4303019,
+               28.0554854
+            ],
+            "type":"Point"
+         },
+         "id":"Mojo Books \u0026 Records",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2540 E Fowler Ave",
+            "address2":"",
+            "city":"Tampa",
+            "postalCode":"Thu Jan 09 00:00:00 GMT-06:00 1992",
+            "latitude":28.0554854,
+            "businessName":"Mojo Books \u0026 Records",
+            "icon":"marker-teal",
+            "state":"FL",
+            "longitude":-82.4303019
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -97.370426,
+               32.751388
+            ],
+            "type":"Point"
+         },
+         "id":"Monkey \u0026 Dog Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"3600 West Seventh St",
+            "address2":"",
+            "city":"Fort Worth",
+            "postalCode":"Tue May 15 00:00:00 GMT-05:00 2108",
+            "latitude":32.751388,
+            "businessName":"Monkey \u0026 Dog Books",
+            "icon":"marker-teal",
+            "state":"TX",
+            "longitude":-97.370426
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -96.089023,
+               30.3876933
+            ],
+            "type":"Point"
+         },
+         "id":"Muddy Water Bookstore",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"120 East Washington Avenue",
+            "address2":"",
+            "city":"Navasota",
+            "postalCode":"Sat Mar 11 00:00:00 GMT-06:00 2113",
+            "latitude":30.3876933,
+            "businessName":"Muddy Water Bookstore",
+            "icon":"marker-teal",
+            "state":"TX",
+            "longitude":-96.089023
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -95.4145479999999,
+               29.725789
+            ],
+            "type":"Point"
+         },
+         "id":"Murder By The Book",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2342 Bissonnet St",
+            "address2":"",
+            "city":"Houston",
+            "postalCode":"Wed Oct 29 23:00:00 GMT-06:00 2110",
+            "latitude":29.725789,
+            "businessName":"Murder By The Book",
+            "icon":"marker-teal",
+            "state":"TX",
+            "longitude":-95.4145479999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -118.357293,
+               33.872553
+            ],
+            "type":"Point"
+         },
+         "id":"Mysterious Galaxy",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2850 Artesia Blvd. #101",
+            "address2":"",
+            "city":"Redondo Beach",
+            "postalCode":"Fri Mar 03 00:00:00 GMT-06:00 2147",
+            "latitude":33.872553,
+            "businessName":"Mysterious Galaxy",
+            "icon":"marker-teal",
+            "state":"CA",
+            "longitude":-118.357293
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -121.8835651,
+               45.6933666
+            ],
+            "type":"Point"
+         },
+         "id":"North Bank Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"66 SW Russell St.",
+            "address2":"",
+            "city":"Stevenson",
+            "postalCode":"Wed Jan 31 00:00:00 GMT-06:00 2170",
+            "latitude":45.6933666,
+            "businessName":"North Bank Books",
+            "icon":"marker-teal",
+            "state":"WA",
+            "longitude":-121.8835651
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -94.2886833,
+               46.5217201
+            ],
+            "type":"Point"
+         },
+         "id":"North Root Studio",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"5876 Clark Lake Rd",
+            "address2":"",
+            "city":"Nisswa",
+            "postalCode":"Fri Aug 07 00:00:00 GMT-05:00 2054",
+            "latitude":46.5217201,
+            "businessName":"North Root Studio",
+            "icon":"marker-teal",
+            "state":"MN",
+            "longitude":-94.2886833
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -72.5760199999999,
+               42.259151
+            ],
+            "type":"Point"
+         },
+         "id":"Odyssey Bookshop, Inc",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"9 College St.",
+            "address2":"",
+            "city":"South Hadley",
+            "postalCode":"Tue Dec 09 23:23:24 GMT-06:36 1902",
+            "latitude":42.259151,
+            "businessName":"Odyssey Bookshop, Inc",
+            "icon":"marker-teal",
+            "state":"MA",
+            "longitude":-72.5760199999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -80.7412259999999,
+               41.204609
+            ],
+            "type":"Point"
+         },
+         "id":"Paperback Shack",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"8514 Bayberry Drive NE",
+            "address2":"",
+            "city":"Warren",
+            "postalCode":"Fri Oct 15 00:00:00 GMT-05:00 2021",
+            "latitude":41.204609,
+            "businessName":"Paperback Shack",
+            "icon":"marker-teal",
+            "state":"OH",
+            "longitude":-80.7412259999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -91.6200949999999,
+               44.041306
+            ],
+            "type":"Point"
+         },
+         "id":"Paperbacks and Pieces",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"429 Mankato Ave.",
+            "address2":"",
+            "city":"Winona",
+            "postalCode":"Sun Apr 13 00:00:00 GMT-05:00 2053",
+            "latitude":44.041306,
+            "businessName":"Paperbacks and Pieces",
+            "icon":"marker-teal",
+            "state":"MN",
+            "longitude":-91.6200949999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -117.048071999999,
+               47.703125
+            ],
+            "type":"Point"
+         },
+         "id":"Patti\u0027s Garden Expressions",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"5105 N Idaho Rd",
+            "address2":"",
+            "city":"Newman Lake",
+            "postalCode":"Tue Feb 12 00:00:00 GMT-06:00 2171",
+            "latitude":47.703125,
+            "businessName":"Patti\u0027s Garden Expressions",
+            "icon":"marker-teal",
+            "state":"WA",
+            "longitude":-117.048071999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -84.1958229,
+               34.0129807
+            ],
+            "type":"Point"
+         },
+         "id":"Perimeter Church Bookstore",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"9500 Medlock Bridge Rd",
+            "address2":"",
+            "city":"Johms Creek",
+            "postalCode":"Tue May 25 23:00:00 GMT-06:00 1982",
+            "latitude":34.0129807,
+            "businessName":"Perimeter Church Bookstore",
+            "icon":"marker-teal",
+            "state":"GA",
+            "longitude":-84.1958229
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -73.211759,
+               44.4780477
+            ],
+            "type":"Point"
+         },
+         "id":"Phoenix Books Burlington",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"191 Bank St",
+            "address2":"",
+            "city":"Burlington",
+            "postalCode":"Tue Oct 13 23:23:24 GMT-06:36 1914",
+            "latitude":44.4780477,
+            "businessName":"Phoenix Books Burlington",
+            "icon":"marker-teal",
+            "state":"VT",
+            "longitude":-73.211759
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -71.1188687999999,
+               42.3896515
+            ],
+            "type":"Point"
+         },
+         "id":"Porter Square Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"25 White St",
+            "address2":"",
+            "city":"Cambridge",
+            "postalCode":"Wed Nov 08 23:23:24 GMT-06:36 1905",
+            "latitude":42.3896515,
+            "businessName":"Porter Square Books",
+            "icon":"marker-teal",
+            "state":"MA",
+            "longitude":-71.1188687999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -80.1178644,
+               42.1140556
+            ],
+            "type":"Point"
+         },
+         "id":"Pressed Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1535 W 8th Street",
+            "address2":"A-2",
+            "city":"Erie",
+            "postalCode":"Thu Mar 08 23:00:00 GMT-06:00 1945",
+            "latitude":42.1140556,
+            "businessName":"Pressed Books",
+            "icon":"marker-teal",
+            "state":"PA",
+            "longitude":-80.1178644
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -78.6448158,
+               35.8385145
+            ],
+            "type":"Point"
+         },
+         "id":"Quail Ridge Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"4209-100 Lassiter Mill Road",
+            "address2":"",
+            "city":"Raleigh",
+            "postalCode":"Thu Aug 07 23:00:00 GMT-06:00 1975",
+            "latitude":35.8385145,
+            "businessName":"Quail Ridge Books",
+            "icon":"marker-teal",
+            "state":"NC",
+            "longitude":-78.6448158
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -105.5036551,
+               44.2925312
+            ],
+            "type":"Point"
+         },
+         "id":"Rapport",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"217 South Gillette Ave.",
+            "address2":"",
+            "city":"Gillette",
+            "postalCode":"Wed Jun 19 00:00:00 GMT-05:00 2126",
+            "latitude":44.2925312,
+            "businessName":"Rapport",
+            "icon":"marker-teal",
+            "state":"WY",
+            "longitude":-105.5036551
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -97.7394436,
+               30.3268497
+            ],
+            "type":"Point"
+         },
+         "id":"Recycled Reads Gift Shop",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"710 W Cesar Chavez St",
+            "address2":"",
+            "city":"Austin",
+            "postalCode":"Sun Jun 23 00:00:00 GMT-05:00 2115",
+            "latitude":30.3268497,
+            "businessName":"Recycled Reads Gift Shop",
+            "icon":"marker-teal",
+            "state":"TX",
+            "longitude":-97.7394436
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -84.9853903,
+               32.4710692
+            ],
+            "type":"Point"
+         },
+         "id":"ReDesign Time",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1301 6th Ave.",
+            "address2":"",
+            "city":"Columbus",
+            "postalCode":"Mon May 11 23:00:00 GMT-06:00 1987",
+            "latitude":32.4710692,
+            "businessName":"ReDesign Time",
+            "icon":"marker-teal",
+            "state":"GA",
+            "longitude":-84.9853903
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -82.3200570999999,
+               35.6159928999999
+            ],
+            "type":"Point"
+         },
+         "id":"Sassafras on Sutton",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"108 Sutton Avenue",
+            "address2":"",
+            "city":"Black Mountain",
+            "postalCode":"Tue Aug 08 23:00:00 GMT-06:00 1978",
+            "latitude":35.6159928999999,
+            "businessName":"Sassafras on Sutton",
+            "icon":"marker-teal",
+            "state":"NC",
+            "longitude":-82.3200570999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -85.6013985,
+               42.911514
+            ],
+            "type":"Point"
+         },
+         "id":"Schuler Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"2660 28th Street SE",
+            "address2":"",
+            "city":"Grand Rapids",
+            "postalCode":"Sun Jul 22 00:00:00 GMT-05:00 2035",
+            "latitude":42.911514,
+            "businessName":"Schuler Books",
+            "icon":"marker-teal",
+            "state":"MI",
+            "longitude":-85.6013985
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -93.1566,
+               44.940014
+            ],
+            "type":"Point"
+         },
+         "id":"Sixth Chamber Used Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1332 Grand Ave",
+            "address2":"",
+            "city":"St. Paul",
+            "postalCode":"Sun Nov 13 00:00:00 GMT-06:00 2050",
+            "latitude":44.940014,
+            "businessName":"Sixth Chamber Used Books",
+            "icon":"marker-teal",
+            "state":"MN",
+            "longitude":-93.1566
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -89.519018,
+               34.365814
+            ],
+            "type":"Point"
+         },
+         "id":"Square Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"160 Courthouse Square",
+            "address2":"",
+            "city":"Oxford",
+            "postalCode":"Sun Oct 30 00:00:00 GMT-05:00 2005",
+            "latitude":34.365814,
+            "businessName":"Square Books",
+            "icon":"marker-teal",
+            "state":"MS",
+            "longitude":-89.519018
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -73.9238106,
+               40.7634604
+            ],
+            "type":"Point"
+         },
+         "id":"The Astoria Bookshop",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"31-29 31st Street",
+            "address2":"",
+            "city":"Astoria",
+            "postalCode":"Tue May 27 23:00:00 GMT-06:00 1930",
+            "latitude":40.7634604,
+            "businessName":"The Astoria Bookshop",
+            "icon":"marker-teal",
+            "state":"NY",
+            "longitude":-73.9238106
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -87.6879533,
+               41.9675627
+            ],
+            "type":"Point"
+         },
+         "id":"The Book Cellar",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"4736-38 N Lincoln Ave",
+            "address2":"",
+            "city":"Chicago",
+            "postalCode":"Thu Dec 24 00:00:00 GMT-06:00 2065",
+            "latitude":41.9675627,
+            "businessName":"The Book Cellar",
+            "icon":"marker-teal",
+            "state":"IL",
+            "longitude":-87.6879533
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -105.992269299999,
+               38.5356299999999
+            ],
+            "type":"Point"
+         },
+         "id":"The Book Haven",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"135 F Street",
+            "address2":"",
+            "city":"Salida",
+            "postalCode":"Sun Apr 26 00:00:00 GMT-05:00 2122",
+            "latitude":38.5356299999999,
+            "businessName":"The Book Haven",
+            "icon":"marker-teal",
+            "state":"CO",
+            "longitude":-105.992269299999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -83.5855548999999,
+               30.1012986
+            ],
+            "type":"Point"
+         },
+         "id":"The Book Mart",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1708 S. Byron Butler Pkwy",
+            "address2":"",
+            "city":"Perry",
+            "postalCode":"Sat Jul 23 23:00:00 GMT-06:00 1988",
+            "latitude":30.1012986,
+            "businessName":"The Book Mart",
+            "icon":"marker-teal",
+            "state":"FL",
+            "longitude":-83.5855548999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -96.3988196,
+               30.1666821
+            ],
+            "type":"Point"
+         },
+         "id":"The Book Nook",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"108 S. Douglas St.",
+            "address2":"",
+            "city":"Brenham",
+            "postalCode":"Sat Feb 04 00:00:00 GMT-06:00 2113",
+            "latitude":30.1666821,
+            "businessName":"The Book Nook",
+            "icon":"marker-teal",
+            "state":"TX",
+            "longitude":-96.3988196
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -71.1505985999999,
+               42.4150538
+            ],
+            "type":"Point"
+         },
+         "id":"The Book Rack",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"13 Medford St",
+            "address2":"",
+            "city":"Arlington",
+            "postalCode":"Mon Oct 08 23:23:24 GMT-06:36 1906",
+            "latitude":42.4150538,
+            "businessName":"The Book Rack",
+            "icon":"marker-teal",
+            "state":"MA",
+            "longitude":-71.1505985999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -81.8646051,
+               41.1382088
+            ],
+            "type":"Point"
+         },
+         "id":"The Book Store (Medina, OH)",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"109 W Washington Street",
+            "address2":"",
+            "city":"Medina",
+            "postalCode":"Mon Mar 01 00:00:00 GMT-06:00 2021",
+            "latitude":41.1382088,
+            "businessName":"The Book Store (Medina, OH)",
+            "icon":"marker-teal",
+            "state":"OH",
+            "longitude":-81.8646051
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -80.8643012,
+               39.6429086
+            ],
+            "type":"Point"
+         },
+         "id":"The Book Store (New Martinsville, WV)",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"161 North Street",
+            "address2":"",
+            "city":"New Martinsville",
+            "postalCode":"Mon Aug 09 23:00:00 GMT-06:00 1971",
+            "latitude":39.6429086,
+            "businessName":"The Book Store (New Martinsville, WV)",
+            "icon":"marker-teal",
+            "state":"WV",
+            "longitude":-80.8643012
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -71.4632196999999,
+               42.9901492
+            ],
+            "type":"Point"
+         },
+         "id":"The Bookery",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"844 Elm Street",
+            "address2":"Suite 200",
+            "city":"Manchester",
+            "postalCode":"Fri Jun 26 23:23:24 GMT-06:36 1908",
+            "latitude":42.9901492,
+            "businessName":"The Bookery",
+            "icon":"marker-teal",
+            "state":"NH",
+            "longitude":-71.4632196999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -88.0664530999999,
+               41.8768139999999
+            ],
+            "type":"Point"
+         },
+         "id":"The Bookstore of Glen Ellyn",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"475 N Main St",
+            "address2":"",
+            "city":"Glen Ellyn",
+            "postalCode":"Sat Aug 23 00:00:00 GMT-05:00 2064",
+            "latitude":41.8768139999999,
+            "businessName":"The Bookstore of Glen Ellyn",
+            "icon":"marker-teal",
+            "state":"IL",
+            "longitude":-88.0664530999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -68.7712809999999,
+               44.8021557
+            ],
+            "type":"Point"
+         },
+         "id":"The Briar Patch",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"27 Central Street",
+            "address2":"",
+            "city":"Bangor",
+            "postalCode":"Wed Jan 17 23:23:24 GMT-06:36 1912",
+            "latitude":44.8021557,
+            "businessName":"The Briar Patch",
+            "icon":"marker-teal",
+            "state":"ME",
+            "longitude":-68.7712809999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -79.3916684,
+               35.1744897
+            ],
+            "type":"Point"
+         },
+         "id":"The Country Bookshop",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"140 NW Broad Street",
+            "address2":"",
+            "city":"Southern Pines",
+            "postalCode":"Sun Sep 18 23:00:00 GMT-06:00 1977",
+            "latitude":35.1744897,
+            "businessName":"The Country Bookshop",
+            "icon":"marker-teal",
+            "state":"NC",
+            "longitude":-79.3916684
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -73.08335,
+               44.81259
+            ],
+            "type":"Point"
+         },
+         "id":"The Eloquent Page",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"70 N Main St",
+            "address2":"",
+            "city":"Saint Albans",
+            "postalCode":"Tue Dec 29 23:23:24 GMT-06:36 1914",
+            "latitude":44.81259,
+            "businessName":"The Eloquent Page",
+            "icon":"marker-teal",
+            "state":"VT",
+            "longitude":-73.08335
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -111.8844929,
+               40.7602939999999
+            ],
+            "type":"Point"
+         },
+         "id":"The Library Store",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"210 E 400 S",
+            "address2":"",
+            "city":"Salt Lake City",
+            "postalCode":"Fri Apr 14 00:00:00 GMT-05:00 2130",
+            "latitude":40.7602939999999,
+            "businessName":"The Library Store",
+            "icon":"marker-teal",
+            "state":"UT",
+            "longitude":-111.8844929
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -90.3345276999999,
+               38.5949716999999
+            ],
+            "type":"Point"
+         },
+         "id":"The Novel Neighbor",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"7905 Big Bend Blvd",
+            "address2":"",
+            "city":"St. Louis",
+            "postalCode":"Sat Oct 22 00:00:00 GMT-05:00 2072",
+            "latitude":38.5949716999999,
+            "businessName":"The Novel Neighbor",
+            "icon":"marker-teal",
+            "state":"MO",
+            "longitude":-90.3345276999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -76.2547,
+               36.2971
+            ],
+            "type":"Point"
+         },
+         "id":"The Recycled Reader",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1725 City Center Blvd",
+            "address2":"Suite C",
+            "city":"Elizabeth City",
+            "postalCode":"Fri May 28 23:00:00 GMT-06:00 1976",
+            "latitude":36.2971,
+            "businessName":"The Recycled Reader",
+            "icon":"marker-teal",
+            "state":"NC",
+            "longitude":-76.2547
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -71.4722851999999,
+               42.4762561999999
+            ],
+            "type":"Point"
+         },
+         "id":"The Silver Unicorn Bookstore",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"12 Spruce St",
+            "address2":"",
+            "city":"Acton",
+            "postalCode":"Wed Sep 14 23:23:24 GMT-06:36 1904",
+            "latitude":42.4762561999999,
+            "businessName":"The Silver Unicorn Bookstore",
+            "icon":"marker-teal",
+            "state":"MA",
+            "longitude":-71.4722851999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -83.7130856,
+               33.7955833
+            ],
+            "type":"Point"
+         },
+         "id":"The Story Shop",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"124 N Broad St",
+            "address2":"",
+            "city":"Monroe",
+            "postalCode":"Mon Dec 05 00:00:00 GMT-06:00 1983",
+            "latitude":33.7955833,
+            "businessName":"The Story Shop",
+            "icon":"marker-teal",
+            "state":"GA",
+            "longitude":-83.7130856
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -88.041155,
+               42.344337
+            ],
+            "type":"Point"
+         },
+         "id":"This Old Book",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"138 Center Street",
+            "address2":"",
+            "city":"Grayslake",
+            "postalCode":"Thu May 08 00:00:00 GMT-05:00 2064",
+            "latitude":42.344337,
+            "businessName":"This Old Book",
+            "icon":"marker-teal",
+            "state":"IL",
+            "longitude":-88.041155
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -96.788028,
+               46.880439
+            ],
+            "type":"Point"
+         },
+         "id":"Unglued: Market",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"408 Broadway",
+            "address2":"",
+            "city":"Fargo",
+            "postalCode":"Mon Jan 27 00:00:00 GMT-06:00 2059",
+            "latitude":46.880439,
+            "businessName":"Unglued: Market",
+            "icon":"marker-teal",
+            "state":"ND",
+            "longitude":-96.788028
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -122.503587999999,
+               48.7207249999999
+            ],
+            "type":"Point"
+         },
+         "id":"Village Books and Paper Dreams",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1206 11th Street",
+            "address2":"",
+            "city":"Bellingham",
+            "postalCode":"Sun Dec 04 00:00:00 GMT-06:00 2168",
+            "latitude":48.7207249999999,
+            "businessName":"Village Books and Paper Dreams",
+            "icon":"marker-teal",
+            "state":"WA",
+            "longitude":-122.503587999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -96.8183379999999,
+               46.859767
+            ],
+            "type":"Point"
+         },
+         "id":"Vintage Point",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1450 25th Street South",
+            "address2":"",
+            "city":"Fargo",
+            "postalCode":"Tue Jan 28 00:00:00 GMT-06:00 2059",
+            "latitude":46.859767,
+            "businessName":"Vintage Point",
+            "icon":"marker-teal",
+            "state":"ND",
+            "longitude":-96.8183379999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -87.6749818,
+               41.908634
+            ],
+            "type":"Point"
+         },
+         "id":"Volumes Bookcafe",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"1474 N. Milwaukee Ave",
+            "address2":"",
+            "city":"Chicago",
+            "postalCode":"Mon Dec 21 00:00:00 GMT-06:00 2065",
+            "latitude":41.908634,
+            "businessName":"Volumes Bookcafe",
+            "icon":"marker-teal",
+            "state":"IL",
+            "longitude":-87.6749818
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -122.2466713,
+               37.8129111
+            ],
+            "type":"Point"
+         },
+         "id":"Walden Pond Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"3316 Grand Ave",
+            "address2":"",
+            "city":"Oakland",
+            "postalCode":"Thu Jan 11 00:00:00 GMT-06:00 2159",
+            "latitude":37.8129111,
+            "businessName":"Walden Pond Books",
+            "icon":"marker-teal",
+            "state":"CA",
+            "longitude":-122.2466713
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -88.218998,
+               42.763504
+            ],
+            "type":"Point"
+         },
+         "id":"Waterford Union High School",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"100 Field Dr",
+            "address2":"",
+            "city":"Waterford",
+            "postalCode":"Fri Aug 11 00:00:00 GMT-05:00 2045",
+            "latitude":42.763504,
+            "businessName":"Waterford Union High School",
+            "icon":"marker-teal",
+            "state":"WI",
+            "longitude":-88.218998
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -97.2811019999999,
+               37.686235
+            ],
+            "type":"Point"
+         },
+         "id":"Watermark Books \u0026 Cafe",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"4701 E. Douglas",
+            "address2":"",
+            "city":"Wichita",
+            "postalCode":"Wed Jan 12 00:00:00 GMT-06:00 2084",
+            "latitude":37.686235,
+            "businessName":"Watermark Books \u0026 Cafe",
+            "icon":"marker-teal",
+            "state":"KS",
+            "longitude":-97.2811019999999
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -71.1029578,
+               42.5237289
+            ],
+            "type":"Point"
+         },
+         "id":"Whitelam Books",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"610 Main Street",
+            "address2":"",
+            "city":"Reading",
+            "postalCode":"Wed Feb 08 23:23:24 GMT-06:36 1905",
+            "latitude":42.5237289,
+            "businessName":"Whitelam Books",
+            "icon":"marker-teal",
+            "state":"MA",
+            "longitude":-71.1029578
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -75.6627201,
+               39.3905826
+            ],
+            "type":"Point"
+         },
+         "id":"Willey Farms",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"4092 DuPont Parkway",
+            "address2":"",
+            "city":"Townsend",
+            "postalCode":"Sun Jan 10 00:00:00 GMT-06:00 1954",
+            "latitude":39.3905826,
+            "businessName":"Willey Farms",
+            "icon":"marker-teal",
+            "state":"DE",
+            "longitude":-75.6627201
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -72.517986,
+               43.6253989999999
+            ],
+            "type":"Point"
+         },
+         "id":"Yankee Bookshop",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"12 Central St",
+            "address2":"",
+            "city":"Woodstock",
+            "postalCode":"Sun Dec 07 23:23:24 GMT-06:36 1913",
+            "latitude":43.6253989999999,
+            "businessName":"Yankee Bookshop",
+            "icon":"marker-teal",
+            "state":"VT",
+            "longitude":-72.517986
+         }
+      },
+      {  
+         "geometry":{  
+            "coordinates":[  
+               -120.310898399999,
+               47.4247702
+            ],
+            "type":"Point"
+         },
+         "id":"Ye Olde Bookshoppe",
+         "type":"Feature",
+         "properties":{  
+            "country":"US",
+            "address":"11 Palouse St",
+            "address2":"",
+            "city":"Wenatchee",
+            "postalCode":"Tue Jul 03 00:00:00 GMT-05:00 2170",
+            "latitude":47.4247702,
+            "businessName":"Ye Olde Bookshoppe",
+            "icon":"marker-teal",
+            "state":"WA",
+            "longitude":-120.310898399999
+         }
+      }
+   ]
+}
